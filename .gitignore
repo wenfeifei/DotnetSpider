@@ -11,7 +11,7 @@ project.lock.json
 
 *.log
 
-nodeid
+**/wwwroot/lib
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -29,6 +29,7 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
+[mmf-signal]/
 
 # Visual Studo 2015 cache/options directory
 .vs/
